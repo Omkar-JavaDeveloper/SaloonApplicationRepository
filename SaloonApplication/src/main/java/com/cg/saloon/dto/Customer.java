@@ -20,7 +20,6 @@ public class Customer {
 
     private BigInteger mobileNumber;
 
-
     public int getCunstomerId() {
         return cunstomerId;
     }

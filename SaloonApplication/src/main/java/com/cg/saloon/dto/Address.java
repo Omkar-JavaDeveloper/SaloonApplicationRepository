@@ -8,6 +8,8 @@ import javax.persistence.Id;
 public class Address {
 
     @Id
+    private int addressId;
+
     private String city;
 
     private String State;
