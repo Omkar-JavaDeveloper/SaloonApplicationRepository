@@ -1,6 +1,5 @@
 package com.cg.saloon.dto;
 
-
 import lombok.Data;
 
 import javax.persistence.*;

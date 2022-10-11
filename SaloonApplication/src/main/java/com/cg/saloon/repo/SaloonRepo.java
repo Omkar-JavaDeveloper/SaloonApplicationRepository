@@ -8,7 +8,6 @@ import java.util.List;
 
 @Repository
 public interface SaloonRepo extends JpaRepository<Saloon,Integer> {
-
     public List<Saloon> findByName(String name);
 
 }
